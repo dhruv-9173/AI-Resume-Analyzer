@@ -1,0 +1,15 @@
+# Python cache/artifacts
+__pycache__/
+*.py[cod]
+
+# Backend secrets and local data
+backend/.env
+backend/chroma_db/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db

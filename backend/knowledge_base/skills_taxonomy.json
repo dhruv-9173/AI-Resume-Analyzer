@@ -1,0 +1,140 @@
+[
+  {
+    "id": "skill_001",
+    "domain": "frontend",
+    "title": "Frontend Development Skills",
+    "content": "Core frontend skills include HTML5, CSS3, JavaScript (ES6+), TypeScript. Modern frameworks: React.js, Vue.js, Angular, Next.js, Nuxt.js. Styling: TailwindCSS, SASS/SCSS, Bootstrap, Material UI, Styled Components. State management: Redux, Zustand, MobX, Pinia. Testing: Jest, React Testing Library, Cypress, Playwright. Build tools: Webpack, Vite, Parcel. Performance: Web Vitals, Lazy Loading, Code Splitting.",
+    "related_roles": [
+      "Frontend Developer",
+      "UI Developer",
+      "Web Developer",
+      "Full Stack Developer"
+    ]
+  },
+  {
+    "id": "skill_002",
+    "domain": "backend",
+    "title": "Backend Development Skills",
+    "content": "Backend languages: Python, Node.js, Java, Go, Ruby, PHP, C#, Rust. Frameworks: FastAPI, Django, Flask, Express.js, Spring Boot, Rails, Laravel, ASP.NET. Databases: PostgreSQL, MySQL, MongoDB, Redis, Cassandra, DynamoDB, SQLite. ORMs: SQLAlchemy, Prisma, Sequelize, Hibernate. API design: REST, GraphQL, gRPC, WebSockets. Message queues: RabbitMQ, Kafka, Redis Pub/Sub. Caching: Redis, Memcached.",
+    "related_roles": [
+      "Backend Developer",
+      "API Developer",
+      "Software Engineer",
+      "Full Stack Developer"
+    ]
+  },
+  {
+    "id": "skill_003",
+    "domain": "devops",
+    "title": "DevOps and Cloud Skills",
+    "content": "Cloud platforms: AWS (EC2, S3, Lambda, RDS, ECS), Google Cloud (GCP), Microsoft Azure. Containerization: Docker, Kubernetes, Docker Compose, Helm. CI/CD: GitHub Actions, Jenkins, CircleCI, GitLab CI, ArgoCD. Infrastructure as Code: Terraform, Ansible, Pulumi, CloudFormation. Monitoring: Prometheus, Grafana, Datadog, New Relic, ELK Stack. Version control: Git, GitHub, GitLab, Bitbucket.",
+    "related_roles": [
+      "DevOps Engineer",
+      "Site Reliability Engineer",
+      "Cloud Engineer",
+      "Platform Engineer"
+    ]
+  },
+  {
+    "id": "skill_004",
+    "domain": "data_science",
+    "title": "Data Science and ML Skills",
+    "content": "Programming: Python, R, SQL, Scala. ML Libraries: Scikit-learn, TensorFlow, PyTorch, Keras, XGBoost, LightGBM. Data manipulation: Pandas, NumPy, Polars. Visualization: Matplotlib, Seaborn, Plotly, Tableau, Power BI. Big Data: Apache Spark, Hadoop, Hive, Databricks. MLOps: MLflow, Kubeflow, Weights & Biases, DVC. Deep learning: CNNs, RNNs, Transformers, LLMs. Statistics: A/B testing, hypothesis testing, regression, classification, clustering.",
+    "related_roles": [
+      "Data Scientist",
+      "ML Engineer",
+      "AI Engineer",
+      "Research Scientist"
+    ]
+  },
+  {
+    "id": "skill_005",
+    "domain": "data_engineering",
+    "title": "Data Engineering Skills",
+    "content": "ETL/ELT tools: Apache Airflow, dbt, Fivetran, Stitch. Data warehouses: Snowflake, BigQuery, Redshift, Databricks. Streaming: Apache Kafka, Apache Flink, Spark Streaming. Databases: PostgreSQL, MySQL, MongoDB, Cassandra, DynamoDB. Cloud data services: AWS Glue, GCP Dataflow, Azure Data Factory. Data modeling: Star schema, dimensional modeling, data vault. Languages: Python, SQL, Scala, Java.",
+    "related_roles": [
+      "Data Engineer",
+      "Analytics Engineer",
+      "ETL Developer",
+      "Big Data Engineer"
+    ]
+  },
+  {
+    "id": "skill_006",
+    "domain": "mobile",
+    "title": "Mobile Development Skills",
+    "content": "iOS: Swift, SwiftUI, UIKit, Objective-C, Xcode, Core Data, ARKit. Android: Kotlin, Java, Jetpack Compose, Android Studio, Room, Retrofit. Cross-platform: React Native, Flutter (Dart), Ionic, Xamarin. Mobile testing: XCTest, Espresso, Detox, Appium. App stores: App Store Connect, Google Play Console. Mobile APIs: Firebase, Push Notifications, Maps SDK, Camera APIs.",
+    "related_roles": [
+      "iOS Developer",
+      "Android Developer",
+      "Mobile Developer",
+      "React Native Developer"
+    ]
+  },
+  {
+    "id": "skill_007",
+    "domain": "security",
+    "title": "Cybersecurity Skills",
+    "content": "Security domains: Network security, Application security, Cloud security, Penetration testing. Tools: Metasploit, Burp Suite, Nmap, Wireshark, Nessus, OWASP ZAP. Concepts: OWASP Top 10, SAST/DAST, Zero Trust, IAM, PKI, encryption. Certifications: CISSP, CEH, OSCP, CompTIA Security+, AWS Security Specialty. Compliance: GDPR, HIPAA, SOC 2, ISO 27001, PCI-DSS. Incident response, threat modeling, vulnerability assessment.",
+    "related_roles": [
+      "Security Engineer",
+      "Penetration Tester",
+      "SOC Analyst",
+      "Security Architect"
+    ]
+  },
+  {
+    "id": "skill_008",
+    "domain": "product_management",
+    "title": "Product Management Skills",
+    "content": "Core skills: Product roadmapping, user story writing, backlog grooming, sprint planning. Frameworks: Agile, Scrum, Kanban, SAFe, OKRs. Tools: Jira, Confluence, Productboard, Aha!, Figma, Miro, Notion. Metrics: DAU/MAU, retention, NPS, ARPU, conversion rate, churn. Research: User interviews, usability testing, A/B testing, competitive analysis. Stakeholder management, go-to-market strategy, PRD writing.",
+    "related_roles": [
+      "Product Manager",
+      "Senior PM",
+      "Product Owner",
+      "Head of Product"
+    ]
+  },
+  {
+    "id": "skill_009",
+    "domain": "design",
+    "title": "UX/UI Design Skills",
+    "content": "Design tools: Figma, Sketch, Adobe XD, InVision, Framer, Zeplin. Design principles: Typography, color theory, grid systems, responsive design, accessibility (WCAG). UX methods: User research, wireframing, prototyping, usability testing, information architecture. UI skills: Component design, design systems, micro-interactions, motion design. Deliverables: User flows, journey maps, personas, mockups, prototypes. Familiarity with HTML/CSS is a bonus.",
+    "related_roles": [
+      "UX Designer",
+      "UI Designer",
+      "Product Designer",
+      "Interaction Designer"
+    ]
+  },
+  {
+    "id": "skill_010",
+    "domain": "soft_skills",
+    "title": "Universal Soft Skills",
+    "content": "Communication: Written and verbal communication, presentation skills, technical writing, documentation. Leadership: Team leadership, mentoring, cross-functional collaboration, conflict resolution. Problem solving: Critical thinking, analytical skills, debugging mindset, root cause analysis. Project management: Time management, prioritization, deadline management, risk assessment. Adaptability: Learning agility, resilience, growth mindset, handling ambiguity. Collaboration: Teamwork, stakeholder management, remote collaboration, cultural awareness.",
+    "related_roles": ["All Roles"]
+  },
+  {
+    "id": "skill_011",
+    "domain": "fullstack",
+    "title": "Full Stack Development Skills",
+    "content": "Full stack developers need proficiency across frontend and backend. Frontend: React or Vue, TypeScript, CSS frameworks. Backend: Node.js or Python, REST APIs, databases. DevOps basics: Git, CI/CD, Docker basics, cloud deployment. Databases: SQL (PostgreSQL/MySQL) and NoSQL (MongoDB/Redis). Authentication: JWT, OAuth, session management. Testing: Unit tests, integration tests, E2E tests. System design: Scalability, caching, load balancing, microservices basics.",
+    "related_roles": [
+      "Full Stack Developer",
+      "Software Engineer",
+      "Web Developer"
+    ]
+  },
+  {
+    "id": "skill_012",
+    "domain": "blockchain",
+    "title": "Blockchain and Web3 Skills",
+    "content": "Blockchain platforms: Ethereum, Solana, Polygon, Binance Smart Chain. Smart contracts: Solidity, Rust (Solana), Vyper. Frameworks: Hardhat, Truffle, Foundry, Anchor. Web3 libraries: ethers.js, web3.js, wagmi, viem. DeFi concepts: AMMs, liquidity pools, yield farming, NFTs, DAOs. Security: Smart contract auditing, reentrancy attacks, gas optimization. IPFS, The Graph, Chainlink oracles.",
+    "related_roles": [
+      "Blockchain Developer",
+      "Smart Contract Developer",
+      "Web3 Engineer",
+      "DeFi Developer"
+    ]
+  }
+]

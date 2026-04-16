@@ -1,0 +1,107 @@
+[
+  {
+    "id": "ats_001",
+    "category": "formatting",
+    "title": "Use Standard Section Headings",
+    "content": "ATS systems scan for standard section headings like Work Experience, Education, Skills, Summary, Certifications. Avoid creative headings like 'My Journey' or 'What I Bring'. Standard headings ensure the ATS correctly categorizes your content and doesn't skip important sections.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_002",
+    "category": "formatting",
+    "title": "Avoid Tables and Columns",
+    "content": "Multi-column layouts and tables confuse most ATS parsers. Text in tables may be read out of order or completely skipped. Use a single-column layout for maximum ATS compatibility. This is one of the most common reasons resumes fail ATS screening.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_003",
+    "category": "formatting",
+    "title": "Avoid Headers and Footers",
+    "content": "ATS systems often cannot read content inside headers and footers. Never place contact information, your name, or page numbers in the header or footer. Put all critical information in the main body of the document.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_004",
+    "category": "formatting",
+    "title": "Use Standard Fonts",
+    "content": "Use standard fonts like Arial, Calibri, Garamond, Georgia, or Times New Roman. Decorative or uncommon fonts may not render correctly in ATS systems and can cause parsing errors. Font size should be between 10-12pt for body text.",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_005",
+    "category": "file_format",
+    "title": "Submit as .docx or Plain PDF",
+    "content": "Most ATS systems prefer .docx format. If submitting PDF, ensure it is a text-based PDF (not a scanned image). PDFs created from Word or Google Docs are generally safe. Never submit image-based PDFs as ATS cannot read them.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_006",
+    "category": "keywords",
+    "title": "Mirror Job Description Keywords",
+    "content": "ATS systems rank resumes based on keyword matching with the job description. Include exact keywords and phrases from the job posting. If the JD says 'project management', use that exact phrase rather than 'managing projects'. Include both spelled-out terms and acronyms (e.g., 'Search Engine Optimization (SEO)').",
+    "severity": "critical"
+  },
+  {
+    "id": "ats_007",
+    "category": "keywords",
+    "title": "Include Industry-Specific Keywords",
+    "content": "Research common keywords for your target role and industry. Technical roles should include specific technologies, frameworks, and tools. Non-technical roles should include industry terminology, methodologies, and domain-specific skills. Use LinkedIn job postings to identify trending keywords.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_008",
+    "category": "contact",
+    "title": "Include Complete Contact Information",
+    "content": "ATS systems extract contact information. Always include: full name, phone number, professional email address, city and state/country, LinkedIn URL, and portfolio/GitHub URL if applicable. Ensure your email is professional (firstname.lastname@email.com).",
+    "severity": "high"
+  },
+  {
+    "id": "ats_009",
+    "category": "dates",
+    "title": "Use Consistent Date Formats",
+    "content": "Use consistent date formats throughout your resume. Recommended formats: MM/YYYY (01/2023) or Month YYYY (January 2023). For current positions use 'Present' (e.g., 'Jan 2022 - Present'). Inconsistent date formats can confuse ATS date parsing.",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_010",
+    "category": "length",
+    "title": "Optimal Resume Length",
+    "content": "For 0-5 years experience: 1 page. For 5-10 years experience: 1-2 pages. For 10+ years: maximum 2 pages. ATS systems do not penalize for length, but hiring managers prefer concise resumes. Every bullet point should add value.",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_011",
+    "category": "bullets",
+    "title": "Use Action Verbs in Bullet Points",
+    "content": "Start each bullet point with a strong action verb: Developed, Implemented, Led, Managed, Designed, Optimized, Reduced, Increased, Built, Launched, Analyzed, Collaborated. Avoid weak starters like 'Responsible for' or 'Helped with'. Quantify achievements where possible (e.g., 'Increased sales by 30%').",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_012",
+    "category": "graphics",
+    "title": "Avoid Graphics and Images",
+    "content": "ATS systems cannot read images, logos, charts, or graphics. Avoid including a profile photo, company logos, skill bar charts, or any visual elements. Replace skill bars (e.g., Python ████░░) with a plain text skills list. Icons in front of section titles can also cause parsing issues.",
+    "severity": "high"
+  },
+  {
+    "id": "ats_013",
+    "category": "special_characters",
+    "title": "Avoid Special Characters and Symbols",
+    "content": "Avoid using special characters like ★, ✓, →, ●, or unusual bullet symbols. These can cause encoding errors in ATS systems. Use standard bullet points (•) or plain dashes (-). Avoid using emojis anywhere in your resume.",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_014",
+    "category": "summary",
+    "title": "Include a Professional Summary",
+    "content": "A professional summary at the top of your resume helps ATS systems categorize your profile. Include your job title, years of experience, key skills, and career objective in 2-4 sentences. Use keywords from the job description in your summary for maximum ATS score.",
+    "severity": "medium"
+  },
+  {
+    "id": "ats_015",
+    "category": "skills",
+    "title": "Dedicated Skills Section",
+    "content": "Always include a dedicated Skills section with a flat list of skills. ATS systems specifically look for a skills section to extract competencies. Group skills by category (Technical Skills, Soft Skills, Languages, Tools). List skills exactly as they appear in job descriptions.",
+    "severity": "high"
+  }
+]
